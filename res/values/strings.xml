@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MID</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_anjing">AnjingActivity</string>
+    <string name="title_activity_bayam">BayamActivity</string>
+    <string name="title_activity_biasa">BiasaActivity</string>
+    <string name="title_activity_bisikan">BisikanActivity</string>
+    <string name="title_activity_cuma">CumaActivity</string>
+    <string name="title_activity_jambu">JambuActivity</string>
+    <string name="title_activity_tantangan">TantanganActivity</string>
+    <string name="title_activity_akal">AkalActivity</string>
+    <string name="title_activity_mari">MariActivity</string>
+    <string name="title_activity_selesai">SelesaiActivity</string>
+
+</resources>
